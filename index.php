@@ -7,6 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <button id="fetcher">Fetch and log</button>
+    <script src="fetcher.js"></script>
 </body>
 </html>
