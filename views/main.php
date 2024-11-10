@@ -8,6 +8,7 @@
 </head>
 <body>
     <button id="fetcher">Fetch and log</button>
+    <button id="time">Get time</button>
     <script src="fetcher.js"></script>
 </body>
 </html>
