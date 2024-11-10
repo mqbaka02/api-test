@@ -7,8 +7,11 @@
     <title>Document</title>
 </head>
 <body>
+    <div class="time-now" id='time-now'></div>
     <button id="fetcher">Fetch and log</button>
     <button id="time">Get time</button>
+    <button id="hello">Say hello</button>
     <script src="fetcher.js"></script>
+    <script src="timer.js"></script>
 </body>
 </html>
